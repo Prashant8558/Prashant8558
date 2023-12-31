@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prashant8558
-- 👀 I’m interested in Dsa
-- 🌱 I’m currently learning Data Science AIML & Dl
-- 💞️ I’m looking to collaborate on It companies' 
-- 📫 How to reach me On Mail(prashanttripathi402@gmail.com)
+- 👋 Hi, I’m @Prashant Tripathi
+- 👀 I’m interested in Data analytics and Python Programing 
+- 🌱 I’m currently learning Data Science AIML & Deep learning
+- 💞️ I’m looking to collaboration on Data Analytics AIML and Deep learning 
+- 📫 How to reach me (prashanttripathi402@gmail.com)
 
 <!---
 Prashant8558/Prashant8558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
